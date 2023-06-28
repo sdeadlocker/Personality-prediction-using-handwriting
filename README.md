@@ -1,2 +1,2 @@
 # Personality-prediction-using-handwriting
-This document involves extracting characteristics from handwriting to gain insights into traits.
+This App will determine the Personality traits information by uploading the handwriting image.
